@@ -8,6 +8,8 @@
 # install dependencies
 $ npm install
 
+# other depend mongoDB and redis
+
 # serve with hot reload at localhost:3000
 $ npm run dev
 
